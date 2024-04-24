@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FalakAnsari88
+- 👋 Hi, I’m @FalakAnsari
 - 👀 I’m interested in accounts,python,mathematics and statistical
 - 🌱 I’m currently learning commerce and software developer
 - 💞️ I’m looking to collaborate on  working together
